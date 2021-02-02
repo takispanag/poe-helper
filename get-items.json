@@ -1,0 +1,690 @@
+{
+  "items": [
+    {
+      "verified": false,
+      "w": 2,
+      "h": 4,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/Staves/Staff3.png?v=15d15e5f67e45a703a09d5249d6ab7a4&w=2&h=4&scale=1",
+      "league": "Ritual",
+      "id": "2e2c4cfae43818cbf59e3c92d9733225fe7ec745bbcb810053d410a47baa3f9a",
+      "sockets": [
+        {
+          "group": 0,
+          "attr": "D",
+          "sColour": "G"
+        },
+        {
+          "group": 0,
+          "attr": "I",
+          "sColour": "B"
+        },
+        {
+          "group": 0,
+          "attr": "I",
+          "sColour": "B"
+        },
+        {
+          "group": 0,
+          "attr": "S",
+          "sColour": "R"
+        }
+      ],
+      "name": "Gloom Post",
+      "typeLine": "Long Staff",
+      "identified": true,
+      "ilvl": 28,
+      "properties": [
+        {
+          "name": "Staff",
+          "values": [],
+          "displayMode": 0
+        },
+        {
+          "name": "Physical Damage",
+          "values": [
+            [
+              "24-41",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 9
+        },
+        {
+          "name": "Critical Strike Chance",
+          "values": [
+            [
+              "6.00%",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 12
+        },
+        {
+          "name": "Attacks per Second",
+          "values": [
+            [
+              "1.30",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 13
+        },
+        {
+          "name": "Weapon Range",
+          "values": [
+            [
+              "13",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 14
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "18",
+              0
+            ]
+          ],
+          "displayMode": 0
+        },
+        {
+          "name": "Str",
+          "values": [
+            [
+              "35",
+              0
+            ]
+          ],
+          "displayMode": 1
+        },
+        {
+          "name": "Int",
+          "values": [
+            [
+              "35",
+              0
+            ]
+          ],
+          "displayMode": 1
+        }
+      ],
+      "implicitMods": [
+        "+18% Chance to Block Attack Damage while wielding a Staff"
+      ],
+      "explicitMods": [
+        "+19 to Intelligence",
+        "8% increased Spell Damage",
+        "51% increased Cold Damage",
+        "Adds 10 to 16 Cold Damage to Spells",
+        "+26 to maximum Mana"
+      ],
+      "frameType": 2,
+      "x": 0,
+      "y": 0,
+      "inventoryId": "Weapon2",
+      "socketedItems": []
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 1,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Belts/Belt2.png?v=05d53adc2875453b6b6bb2652ee3d74d&w=2&h=1&scale=1",
+      "league": "Ritual",
+      "id": "a7f702f9e0119d4c92ccd764727ef6aa4466e20052eb2289dcc3c4058c5db524",
+      "name": "Empyrean Locket",
+      "typeLine": "Chain Belt",
+      "identified": true,
+      "ilvl": 46,
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "33",
+              0
+            ]
+          ],
+          "displayMode": 0
+        }
+      ],
+      "implicitMods": [
+        "+13 to maximum Energy Shield"
+      ],
+      "explicitMods": [
+        "+22 to maximum Energy Shield",
+        "+68 to maximum Life",
+        "+28 to maximum Mana",
+        "+28% to Fire Resistance",
+        "+26% to Cold Resistance",
+        "21% increased Stun and Block Recovery"
+      ],
+      "frameType": 2,
+      "x": 0,
+      "y": 0,
+      "inventoryId": "Belt"
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 3,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/CarcassJack.png?v=feb00e7b3df57187622f80c1ed80219d&w=2&h=3&scale=1",
+      "league": "Ritual",
+      "id": "475fdb3b998b014e3f292bf96826a2088465b6b9d403ec56c4228ad396f250d4",
+      "sockets": [
+        {
+          "group": 0,
+          "attr": "I",
+          "sColour": "B"
+        },
+        {
+          "group": 0,
+          "attr": "D",
+          "sColour": "G"
+        },
+        {
+          "group": 0,
+          "attr": "D",
+          "sColour": "G"
+        },
+        {
+          "group": 0,
+          "attr": "S",
+          "sColour": "R"
+        },
+        {
+          "group": 0,
+          "attr": "I",
+          "sColour": "B"
+        },
+        {
+          "group": 0,
+          "attr": "D",
+          "sColour": "G"
+        }
+      ],
+      "name": "Carcass Jack",
+      "typeLine": "Varnished Coat",
+      "identified": true,
+      "ilvl": 72,
+      "properties": [
+        {
+          "name": "Quality",
+          "values": [
+            [
+              "+20%",
+              1
+            ]
+          ],
+          "displayMode": 0,
+          "type": 6
+        },
+        {
+          "name": "Evasion Rating",
+          "values": [
+            [
+              "925",
+              1
+            ]
+          ],
+          "displayMode": 0,
+          "type": 17
+        },
+        {
+          "name": "Energy Shield",
+          "values": [
+            [
+              "179",
+              1
+            ]
+          ],
+          "displayMode": 0,
+          "type": 18
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "69",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "suffix": "(gem)"
+        },
+        {
+          "name": "Dex",
+          "values": [
+            [
+              "106",
+              0
+            ]
+          ],
+          "displayMode": 1,
+          "suffix": "(gem)"
+        },
+        {
+          "name": "Int",
+          "values": [
+            [
+              "96",
+              0
+            ]
+          ],
+          "displayMode": 1
+        }
+      ],
+      "explicitMods": [
+        "139% increased Evasion and Energy Shield",
+        "+66 to maximum Life",
+        "+11% to all Elemental Resistances",
+        "49% increased Area of Effect",
+        "48% increased Area Damage",
+        "Extra gore"
+      ],
+      "enchantMods": [
+        "Quality does not increase Defences",
+        "Grants +1 to Dexterity per 2% Quality"
+      ],
+      "flavourText": [
+        "\"...The discomfort shown by the others is amusing, but none\r",
+        "can deny that my work has made quite the splash...\"\r",
+        "- Maligaro's Journal"
+      ],
+      "frameType": 3,
+      "x": 0,
+      "y": 0,
+      "inventoryId": "BodyArmour",
+      "socketedItems": [
+        {
+          "verified": false,
+          "w": 1,
+          "h": 1,
+          "icon": "https://web.poecdn.com/image/Art/2DItems/Gems/Support/CastOnCrit.png?v=5d5d5baa48243adc37f220111f0fd233&w=1&h=1&scale=1",
+          "support": true,
+          "id": "c1b2855c20b242cf23211ebc99b920b5d72e80129bd05896534a56b52a997637",
+          "name": "",
+          "typeLine": "Cast On Critical Strike Support",
+          "identified": true,
+          "ilvl": 0,
+          "properties": [
+            {
+              "name": "Trigger, Support, Spell",
+              "values": [],
+              "displayMode": 0
+            },
+            {
+              "name": "Level",
+              "values": [
+                [
+                  "19",
+                  0
+                ]
+              ],
+              "displayMode": 0,
+              "type": 5
+            },
+            {
+              "name": "Mana Multiplier",
+              "values": [
+                [
+                  "140%",
+                  0
+                ]
+              ],
+              "displayMode": 0
+            },
+            {
+              "name": "Cooldown Time",
+              "values": [
+                [
+                  "0.15 sec",
+                  0
+                ]
+              ],
+              "displayMode": 0
+            },
+            {
+              "name": "Quality",
+              "values": [
+                [
+                  "+17%",
+                  1
+                ]
+              ],
+              "displayMode": 0,
+              "type": 6
+            }
+          ],
+          "requirements": [
+            {
+              "name": "Level",
+              "values": [
+                [
+                  "69",
+                  0
+                ]
+              ],
+              "displayMode": 0
+            },
+            {
+              "name": "Dex",
+              "values": [
+                [
+                  "69",
+                  0
+                ]
+              ],
+              "displayMode": 1
+            },
+            {
+              "name": "Int",
+              "values": [
+                [
+                  "48",
+                  0
+                ]
+              ],
+              "displayMode": 1
+            }
+          ],
+          "additionalProperties": [
+            {
+              "name": "Experience",
+              "values": [
+                [
+                  "94143423/157405063",
+                  0
+                ]
+              ],
+              "displayMode": 2,
+              "progress": 0.6,
+              "type": 20
+            }
+          ],
+          "secDescrText": "Must support both an attack skill and a spell skill to work. The attack skill will trigger a spell when it critically strikes an enemy. Cannot support totems, traps, or mines. Vaal skills, channelling skills, and skills that reserve mana cannot be triggered.",
+          "explicitMods": [
+            "Supported Skills deal 38% more Spell Damage",
+            "Supported Attacks will Trigger a Supported Spell when you Crit an Enemy",
+            "You cannot Cast Supported Triggerable Spells directly",
+            "Supported Skills have 17% increased Attack Critical Strike Chance",
+            "Supported Skills have 17% increased Spell Critical Strike Chance"
+          ],
+          "descrText": "This is a Support Gem. It does not grant a bonus to your character, but to skills in sockets connected to it. Place into an item socket connected to a socket containing the Active Skill Gem you wish to augment. Right click to remove from a socket.",
+          "frameType": 4,
+          "socket": 1,
+          "colour": "D"
+        },
+        {
+          "verified": false,
+          "w": 1,
+          "h": 1,
+          "icon": "https://web.poecdn.com/image/Art/2DItems/Gems/Support/AddedColdDamage.png?v=00ffc64707ddf66f4d012c9a8d0e942c&w=1&h=1&scale=1",
+          "support": true,
+          "id": "dd12309481c6bfc39a6e1ac5cb3904286b9975e80765580afb0fa76e671e96da",
+          "name": "",
+          "typeLine": "Added Cold Damage Support",
+          "identified": true,
+          "ilvl": 0,
+          "properties": [
+            {
+              "name": "Cold, Support",
+              "values": [],
+              "displayMode": 0
+            },
+            {
+              "name": "Level",
+              "values": [
+                [
+                  "19",
+                  0
+                ]
+              ],
+              "displayMode": 0,
+              "type": 5
+            },
+            {
+              "name": "Mana Multiplier",
+              "values": [
+                [
+                  "130%",
+                  0
+                ]
+              ],
+              "displayMode": 0
+            },
+            {
+              "name": "Quality",
+              "values": [
+                [
+                  "+11%",
+                  1
+                ]
+              ],
+              "displayMode": 0,
+              "type": 6
+            }
+          ],
+          "requirements": [
+            {
+              "name": "Level",
+              "values": [
+                [
+                  "67",
+                  0
+                ]
+              ],
+              "displayMode": 0
+            },
+            {
+              "name": "Dex",
+              "values": [
+                [
+                  "106",
+                  0
+                ]
+              ],
+              "displayMode": 1
+            }
+          ],
+          "additionalProperties": [
+            {
+              "name": "Experience",
+              "values": [
+                [
+                  "207267951/242078618",
+                  0
+                ]
+              ],
+              "displayMode": 2,
+              "progress": 0.86,
+              "type": 20
+            }
+          ],
+          "secDescrText": "Supports any skill that hits enemies.",
+          "explicitMods": [
+            "Supported Skills deal 5% increased Cold Damage",
+            "Supported Skills have 146 to 219 added Cold Damage"
+          ],
+          "descrText": "This is a Support Gem. It does not grant a bonus to your character, but to skills in sockets connected to it. Place into an item socket connected to a socket containing the Active Skill Gem you wish to augment. Right click to remove from a socket.",
+          "frameType": 4,
+          "socket": 2,
+          "colour": "D"
+        }
+      ],
+      "incubatedItem": {
+        "name": "Scarab Item",
+        "level": 63,
+        "progress": 3023,
+        "total": 7898
+      }
+    },
+    {
+      "verified": false,
+      "w": 2,
+      "h": 2,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Helmets/HelmetInt8.png?v=ac2e8f600c1f786b95f0aaa816d0a1c5&w=2&h=2&scale=1",
+      "league": "Ritual",
+      "id": "a99ec11405d997187e3b2e98e5d880e2fd5bd5d9697231aaabea96d69bd5860e",
+      "sockets": [
+        {
+          "group": 0,
+          "attr": "I",
+          "sColour": "B"
+        }
+      ],
+      "name": "Pain Crown",
+      "typeLine": "Necromancer Circlet",
+      "identified": true,
+      "ilvl": 74,
+      "properties": [
+        {
+          "name": "Energy Shield",
+          "values": [
+            [
+              "168",
+              1
+            ]
+          ],
+          "displayMode": 0,
+          "type": 18
+        }
+      ],
+      "requirements": [
+        {
+          "name": "Level",
+          "values": [
+            [
+              "54",
+              0
+            ]
+          ],
+          "displayMode": 0
+        },
+        {
+          "name": "Int",
+          "values": [
+            [
+              "112",
+              0
+            ]
+          ],
+          "displayMode": 1
+        }
+      ],
+      "explicitMods": [
+        "+57 to maximum Energy Shield",
+        "54% increased Energy Shield",
+        "+67 to maximum Life",
+        "+30% to Fire Resistance",
+        "+35% to Lightning Resistance"
+      ],
+      "enchantMods": [
+        "Arc has +20% chance to Shock"
+      ],
+      "frameType": 2,
+      "x": 0,
+      "y": 0,
+      "inventoryId": "Helm",
+      "socketedItems": []
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Currency/CurrencyIdentification.png?v=1b9b38c45be95c59d8900f91b2afd58b&w=1&h=1&scale=1",
+      "stackSize": 23,
+      "maxStackSize": 40,
+      "league": "Ritual",
+      "id": "7588244ab9ae5143c9598d2958cb752d387fb35ffcbe75050ee0b89ca73ff987",
+      "name": "",
+      "typeLine": "Scroll of Wisdom",
+      "identified": true,
+      "ilvl": 0,
+      "properties": [
+        {
+          "name": "Stack Size",
+          "values": [
+            [
+              "23/40",
+              0
+            ]
+          ],
+          "displayMode": 0,
+          "type": 32
+        }
+      ],
+      "explicitMods": [
+        "Identifies an item"
+      ],
+      "descrText": "Right click this item then left click an unidentified item to apply it.",
+      "frameType": 5,
+      "x": 10,
+      "y": 4,
+      "inventoryId": "MainInventory"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 3,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/QuestItems/Decanter.png?v=f5493d77a2f281634272889dea584df6&w=1&h=3&scale=1",
+      "league": "Ritual",
+      "id": "15be9a0824777ee3926933800ae732c19550b35a79b1129482d82cb2e94b8093",
+      "name": "",
+      "typeLine": "Decanter Spiritus",
+      "identified": true,
+      "ilvl": 0,
+      "flavourText": [
+        "\"Man is blinded by the mud of his corporeal self. Only\r",
+        "through the transformation of the material into the\r",
+        "spiritual can we hope to taste the full body of life.\"\r",
+        "- Malachai the Soulless"
+      ],
+      "frameType": 7,
+      "x": 11,
+      "y": 2,
+      "inventoryId": "MainInventory"
+    },
+    {
+      "verified": false,
+      "w": 1,
+      "h": 1,
+      "icon": "https://web.poecdn.com/image/Art/2DItems/Currency/Atlas/ProvingGroundNewVastir1.png?v=2ba900a9efadc4f2330c1a6921c941ae&w=1&h=1&scale=1",
+      "league": "Ritual",
+      "id": "850ca23c4bec298614d834e305a6af9fe3a68c61d2f12727f605fc35827aaae5",
+      "name": "",
+      "typeLine": "Maven's Invitation: New Vastir",
+      "identified": true,
+      "ilvl": 0,
+      "descrText": "Can be used in a personal Map Device.",
+      "flavourText": [
+        "For those who must not endure it,\r",
+        "there may be found a perverse joy \r",
+        "in watching the struggle for survival."
+      ],
+      "frameType": 7,
+      "x": 10,
+      "y": 3,
+      "inventoryId": "MainInventory"
+    }
+  ],
+  "character": {
+    "name": "YourAvgCascade",
+    "league": "Ritual",
+    "classId": 6,
+    "ascendancyClass": 1,
+    "class": "Assassin",
+    "level": 88,
+    "experience": 1665380896,
+    "lastActive": true
+  }
+}
